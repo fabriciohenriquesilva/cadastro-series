@@ -1,0 +1,16 @@
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.csprojAssemblyReference.cache
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\bin\Debug\net5.0\Series.exe
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\bin\Debug\net5.0\Series.deps.json
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\bin\Debug\net5.0\Series.dll
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\bin\Debug\net5.0\ref\Series.dll
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\bin\Debug\net5.0\Series.pdb
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.dll
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\ref\Series.dll
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.pdb
+C:\Users\fnhs2\Documents\dev\c-sharp\projetos\01\app-cadastro-de-series\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
